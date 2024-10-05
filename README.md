@@ -1,6 +1,6 @@
 # **CALCULATOR**
 #### Video Demo:  (https://saminthapa.github.io/Calculator-/)
-### Description:
+## Description:
 This is a simple web-based calculator built as part of my CS50 final project. The calculator is developed using HTML, CSS, and JavaScript. It supports basic arithmetic operations like addition, subtraction, multiplication, and division, and includes a user-friendly interface with both light mode and dark mode themes.
 
 #### Features: 
