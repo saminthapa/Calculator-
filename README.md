@@ -5,9 +5,9 @@ This is a simple web-based calculator built as part of my CS50 final project. Th
 
 ## Features: 
 - **Basic Arithmetic Operations:** Perform addition, subtraction, multiplication, and division.
-* **Clear and Delete Functions:** Easily clear the input or delete the last digit entered.
-* **Light/Dark Mode:** Toggle between light and dark themes for better user experience.
-* **Responsive Design:** The calculator is designed to work on different screen sizes.
+- **Clear and Delete Functions:** Easily clear the input or delete the last digit entered.
+- **Light/Dark Mode:** Toggle between light and dark themes for better user experience.
+- **Responsive Design:** The calculator is designed to work on different screen sizes.
 
 ## How to Use:
 1. Enter the numbers using the on-screen buttons.
