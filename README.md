@@ -22,4 +22,4 @@ This is a simple web-based calculator built as part of my CS50 final project. Th
 - **JavaScript:** Logic for performing calculations and interacting with the interface.
 
   ## Credit:
- - **Developed by:** ***Samin Thapa Kshetry*** as part of the CS50 course at Harvard University.
+ - **Developed by:** ***Samin Thapa Kshetry*** as part of the CS50 course.
